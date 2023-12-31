@@ -1,0 +1,92 @@
+.display-4.fw-bold.text-body-emphasis{
+    font-family: 'Barlow Condensed', sans-serif;
+}
+.container-header{
+    background-position: center;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+    justify-content: center;
+    width: 100%;
+    color: #52D3D8;
+    background-color: #38419D;
+}
+.lead.mb-5{
+    font-family: 'Playfair Display', serif;
+}
+.display-4.fw-bold.text-body-emphasis{
+    color: #52D3D8!important;
+    padding-top: 100px;
+}
+#moon-img{
+    width: 300px;
+    height: 150px;
+    object-fit: cover;
+    object-position: 25% 0%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    background-color: #38419D;
+}
+.lead.mb-5{
+    padding-bottom: 50px;
+}
+.doodle-img{
+    position: absolute;
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+    background-color: #38419D;
+    z-index: 900;
+}
+.d-block.mx-auto.mb-0{
+    border-radius: 50%;
+}
+.display-5.fw-bold.text-body-emphasis{
+    color: #38419D!important;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+.pb-2.text-center{
+    color: #38419D!important;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+.fs-2.text-body-emphasis{
+    color: #38419D!important;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: bolder;
+}
+.contact-me{
+    text-align: center;
+    padding-top: 50px;
+    color: #38419D;
+}
+.contact-me>h2{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 45px;
+    font-weight: 700;
+}
+.contact-me>h3{
+    font-size: 20px;
+}
+.contact-message{
+    color: black;
+}
+.contact-me>.btn{
+    color: #38419D;
+    font-weight: bold;
+}
+.footer-container{
+    background-color: #38419D;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.mb-3.mb-md-0{
+    color: white;
+}
+.bi{
+    color: #FFFFFF;
+}
